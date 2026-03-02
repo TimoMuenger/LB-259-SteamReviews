@@ -1,1 +1,5 @@
 # LB-259-SteamReviews
+## Datensatz und seine Felder
+Dieser Datensatz umfasst über 6,4 Millionen Nutzerbewertungen der Spieleplattform Steam. Zu den wichtigsten Feldern gehören app_name (der Titel des Spiels), review_text (der geschriebene Bewertungstext), review_score (die positive oder negative Empfehlung des Nutzers) sowie review_votes (wie hilfreich andere die Bewertung fanden). Die Daten eignen sich für Machine Learning Modelle, um zum Beispiel Zusammenhänge zwischen Texten und der resultierenden Spielbewertung zu untersuchen.
+## Datenschutz/Datenschutz-Richtlinien
+Die Daten aus diesem Datensatz besteht ausschliesslich aus öffentlich zugänglichen Bewertungen, die Nutzer freiwillig auf der Spielplattform veröffentlicht haben. Um den Datenschutz zu gewährleisten, haben die Ersteller darauf verzichtet, hochsensible persönliche Informationen zu sammeln, der Fokus liegt also auf dem geschriebenen Text. Als zusätzlich werde ich in meinem Projekt darauf achten, keine Rückschlüsse auf Einzelpersonen zu ziehen. Der Fokus bleibt strikt auf der Auswertung für das Projekt.
